@@ -1,5 +1,5 @@
 - company: Shopify
-  link: Shopify.com
+  #link: Shopify.com
   jobs:
     - title: Launch Engineer
       dates: Feb 2018 - Present
@@ -8,6 +8,6 @@
     - title: Support Leadership 
       dates: November 2014 - May 2016
   quote: >
-   It’s been our mission to make commerce better for *everyone* 
+   It’s been our mission to make commerce better for everyone 
   description: | # this will include new lines to allow paragraphs
     I've been on the rocketship that is Shopify for almost 6 years now. My job has ranged from planning Shopify Support's international expansion, log diving to help merchants solving technical issues, documenting technical changes of new frontend stack, to consulting on integrations with Shopify's largest merchants. 
