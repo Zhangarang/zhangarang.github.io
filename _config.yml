@@ -24,7 +24,7 @@ linkedin_username: nick-zhang-b4663015b
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name’s Nick and I’m a senior launch Engineer at Shopify. What’s that you say? I provide technical guidance and solutions to enterprise level companies during both the pre/post sales process. 
+  Hi, my name’s Nick and I’m a senior Launch Engineer at Shopify. What’s that you say? I provide technical guidance and solutions to enterprise level companies during both the pre/post sales process. 
   I am most skilled in: <mark>Not cracking under pressure</mark> and <mark>thinking outside the outside box</mark>
 
 # Projects Section
@@ -40,10 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in E-commerce and Technology, you can also find me doing the following:
-   - Running down a ball in a Squash court
-   - Setting record low scores in video games
-   - Creating gastronomic atrocities 
-   - Taming cats
+   - Running down a ball in a <mark>squash</mark> court
+   - Setting record low scores in video <mark>games</mark>
+   - Creating <mark>gastronomic</mark> atrocities 
+   - Taming <mark>cats</mark>
 
 # Footer
 footer_show_references: true
