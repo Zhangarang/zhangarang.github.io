@@ -1,9 +1,9 @@
-- name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+- name: University of Toronto
+  dates: 2006 - 2011
+  qualification: BSc BA Cognitive Science and Artifical Inteligence, BA Psychology 
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    It was founded by royal charter in 1827 as King's College, the first institution of higher learning in the colony of Upper Canada...The university is commonly ranked as the best Canadian university. 
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    During my time at Uoft, I learnt two things. *First*, A.I. is really hard and impossible to implement. *Second*, coming to terms with the fact that I spent 5 years of my life learning the first thing. In all seriousness, the degree in Cog Sci and AI allowed me to dabble in computer science, neuroscience, philosophy, psychology and linguistics, providing both a balanced education with pragmatic skills.  
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
